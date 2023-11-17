@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityIntent</string>
+    <string name="button_start">Yes! Start Maroon Activity!</string>
+    <string name="textview_start">Do you want to start Maroon Activity?</string>
+</resources>
